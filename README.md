@@ -1,2 +1,2 @@
-# Swen-Tutorial-
+# Swen-Tutorial
 Swen tutorial activity
